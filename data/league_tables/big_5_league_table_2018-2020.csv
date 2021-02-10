@@ -1,0 +1,295 @@
+competition_name,gender,country,season_end_year,squad,team_or_opponent,rk,mp,w,d,l,gf,ga,g_diff,pts,x_g,x_ga,x_g_diff,x_g_diff_90,attendance,top_team_scorer,goalkeeper,notes,pts_g
+Premier League,M,ENG,2020,Arsenal,team,8,38,14,14,10,56,48,8,56,49.2,56.6,-7.3,-0.19,47589,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ UEFA Europa League via cup win 2,NA
+Premier League,M,ENG,2020,Aston Villa,team,17,38,9,8,21,41,67,-26,35,40.1,65.9,-25.8,-0.68,28505,Jack Grealish - 8,Tom Heaton,,NA
+Premier League,M,ENG,2020,Bournemouth,team,18,38,9,7,22,40,65,-25,34,42.7,57.5,-14.8,-0.39,7745,Callum Wilson - 8,Aaron Ramsdale,Relegated,NA
+Premier League,M,ENG,2020,Brighton,team,15,38,9,14,15,39,54,-15,41,41.2,54.5,-13.3,-0.35,22369,Neal Maupay - 10,Mathew Ryan,,NA
+Premier League,M,ENG,2020,Burnley,team,10,38,15,9,14,43,50,-7,54,43.9,48.3,-4.4,-0.12,15995,Chris Wood - 14,Nick Pope,,NA
+Premier League,M,ENG,2020,Chelsea,team,4,38,20,6,12,69,54,15,66,66.6,37.9,28.6,0.75,32023,Tammy Abraham - 15,Kepa Arrizabalaga,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2020,Crystal Palace,team,14,38,11,10,17,31,50,-19,43,34,51.3,-17.3,-0.46,19784,Jordan Ayew - 9,Vicente Guaita,,NA
+Premier League,M,ENG,2020,Everton,team,12,38,13,10,15,44,56,-12,49,49.3,48.4,0.9,0.02,28848,"Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford,,NA
+Premier League,M,ENG,2020,Leicester City,team,5,38,18,8,12,67,41,26,62,61.6,44.5,17.1,0.45,25312,Jamie Vardy - 23,Kasper Schmeichel,→ UEFA Europa League via league finish,NA
+Premier League,M,ENG,2020,Liverpool,team,1,38,32,3,3,85,33,52,99,71.5,40,31.5,0.83,41955,Mohamed Salah - 19,Alisson,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2020,Manchester City,team,2,38,26,3,9,102,35,67,81,93,34.7,58.3,1.53,37097,Raheem Sterling - 20,Ederson,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2020,Manchester Utd,team,3,38,18,12,8,66,36,30,66,59.4,37.4,22,0.58,57415,"Marcus Rashford, Anthony Martial - 17",David de Gea,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2020,Newcastle Utd,team,13,38,11,11,16,38,58,-20,44,33.1,58.3,-25.2,-0.66,35551,Jonjo Shelvey - 6,Martin Dúbravka,,NA
+Premier League,M,ENG,2020,Norwich City,team,20,38,5,6,27,26,75,-49,21,38,61.9,-23.9,-0.63,19913,Teemu Pukki - 11,Tim Krul,Relegated,NA
+Premier League,M,ENG,2020,Sheffield Utd,team,9,38,14,12,12,39,39,0,54,41.5,47.9,-6.4,-0.17,24370,"Oliver McBurnie, Lys Mousset - 6",Dean Henderson,,NA
+Premier League,M,ENG,2020,Southampton,team,11,38,15,7,16,51,60,-9,52,53.9,53.1,0.9,0.02,23428,Danny Ings - 22,Alex McCarthy,,NA
+Premier League,M,ENG,2020,Tottenham,team,6,38,16,11,11,61,47,14,59,46.1,52,-6,-0.16,43757,Harry Kane - 18,Hugo Lloris,→ UEFA Europa League via league finish 1,NA
+Premier League,M,ENG,2020,Watford,team,19,38,8,10,20,36,64,-28,34,45.1,57.3,-12.2,-0.32,15353,Troy Deeney - 10,Ben Foster,Relegated,NA
+Premier League,M,ENG,2020,West Ham,team,16,38,10,9,19,49,62,-13,39,46.2,61.1,-14.8,-0.39,44155,Michail Antonio - 10,Łukasz Fabiański,,NA
+Premier League,M,ENG,2020,Wolves,team,7,38,15,14,9,51,40,11,59,47.1,34.8,12.3,0.32,24758,Raúl Jiménez - 17,Rui Patrício,,NA
+Premier League,M,ENG,2019,Arsenal,team,5,38,21,7,10,73,51,22,70,57.1,54.5,2.6,0.07,59899,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ UEFA Europa League via league finish,NA
+Premier League,M,ENG,2019,Bournemouth,team,14,38,13,6,19,56,70,-14,45,53.3,55.8,-2.5,-0.07,10532,Callum Wilson - 14,Asmir Begović,,NA
+Premier League,M,ENG,2019,Brighton,team,17,38,9,9,20,35,60,-25,36,34.4,56.4,-22,-0.58,30426,Glenn Murray - 13,Mathew Ryan,,NA
+Premier League,M,ENG,2019,Burnley,team,15,38,11,7,20,45,68,-23,40,41.9,63.1,-21.2,-0.56,20534,Ashley Barnes - 12,"Tom Heaton, Joe Hart",,NA
+Premier League,M,ENG,2019,Cardiff City,team,18,38,10,4,24,34,69,-35,34,39.8,61.8,-22,-0.58,31408,"Víctor Camarasa, Bobby Reid - 5",Neil Etheridge,Relegated,NA
+Premier League,M,ENG,2019,Chelsea,team,3,38,21,9,8,63,39,24,72,58.5,35.2,23.3,0.61,40437,Eden Hazard - 16,Kepa Arrizabalaga,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2019,Crystal Palace,team,12,38,14,7,17,51,53,-2,49,50.1,48.5,1.6,0.04,25455,Luka Milivojević - 12,Vicente Guaita,,NA
+Premier League,M,ENG,2019,Everton,team,8,38,15,9,14,54,46,8,54,46.5,45,1.6,0.04,39043,"Gylfi Sigurðsson, Richarlison - 13",Jordan Pickford,,NA
+Premier League,M,ENG,2019,Fulham,team,19,38,7,5,26,34,81,-47,26,39.7,65.2,-25.5,-0.67,24371,Aleksandar Mitrović - 11,Sergio Rico,Relegated,NA
+Premier League,M,ENG,2019,Huddersfield,team,20,38,3,7,28,22,76,-54,16,28.9,63.3,-34.5,-0.91,23203,"Aaron Mooy, Mathias Jørgensen... - 3",Jonas Lössl,Relegated,NA
+Premier League,M,ENG,2019,Leicester City,team,9,38,15,7,16,51,48,3,52,49.4,42.6,6.8,0.18,31851,Jamie Vardy - 18,Kasper Schmeichel,,NA
+Premier League,M,ENG,2019,Liverpool,team,2,38,30,7,1,89,22,67,97,73.6,30,43.6,1.15,52983,"Sadio Mané, Mohamed Salah - 22",Alisson,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2019,Manchester City,team,1,38,32,2,4,95,23,72,98,82,25.6,56.4,1.49,54130,Sergio Agüero - 21,Ederson,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2019,Manchester Utd,team,6,38,19,9,10,65,54,11,66,59.6,47.9,11.7,0.31,74498,Paul Pogba - 13,David de Gea,→ UEFA Europa League via league finish 1,NA
+Premier League,M,ENG,2019,Newcastle Utd,team,13,38,12,9,17,42,48,-6,45,38.8,52.4,-13.6,-0.36,51121,Ayoze Pérez - 12,Martin Dúbravka,,NA
+Premier League,M,ENG,2019,Southampton,team,16,38,9,12,17,45,65,-20,39,45.4,54.9,-9.5,-0.25,30139,"James Ward-Prowse, Danny Ings - 7",Alex McCarthy,,NA
+Premier League,M,ENG,2019,Tottenham,team,4,38,23,2,13,67,39,28,71,55.6,45.3,10.2,0.27,54216,Harry Kane - 17,Hugo Lloris,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2019,Watford,team,11,38,14,8,16,52,59,-7,50,48,54.4,-6.4,-0.17,20016,Gerard Deulofeu - 10,Ben Foster,,NA
+Premier League,M,ENG,2019,West Ham,team,10,38,15,7,16,52,55,-3,52,49.1,61,-11.9,-0.31,58336,Marko Arnautović - 10,Łukasz Fabiański,,NA
+Premier League,M,ENG,2019,Wolves,team,7,38,16,9,13,47,46,1,57,49.9,38.7,11.2,0.3,31030,Raúl Jiménez - 13,Rui Patrício,→ UEFA Europa League via league finish,NA
+Premier League,M,ENG,2018,Arsenal,team,6,38,19,6,13,74,51,23,63,63.1,49.8,13.4,0.35,59323,Alexandre Lacazette - 14,Petr Čech,→ UEFA Europa League via league finish,NA
+Premier League,M,ENG,2018,Bournemouth,team,12,38,11,11,16,45,61,-16,44,42.7,58.6,-15.9,-0.42,10641,"Callum Wilson, Joshua King - 8",Asmir Begović,,NA
+Premier League,M,ENG,2018,Brighton,team,15,38,9,13,16,34,54,-20,40,36.3,49.7,-13.4,-0.35,30403,Glenn Murray - 12,Mathew Ryan,,NA
+Premier League,M,ENG,2018,Burnley,team,7,38,14,12,12,36,39,-3,54,34.4,48.2,-13.7,-0.36,20688,Chris Wood - 10,Nick Pope,→ UEFA Europa League via league finish 2,NA
+Premier League,M,ENG,2018,Chelsea,team,5,38,21,7,10,62,38,24,70,55.7,32.7,23,0.61,41282,Eden Hazard - 12,Thibaut Courtois,→ UEFA Europa League via cup win 1,NA
+Premier League,M,ENG,2018,Crystal Palace,team,11,38,11,11,16,45,55,-10,44,53,47.4,5.6,0.15,25063,Luka Milivojević - 10,Wayne Hennessey,,NA
+Premier League,M,ENG,2018,Everton,team,8,38,13,10,15,44,58,-14,49,39.6,50.3,-10.7,-0.28,38797,Wayne Rooney - 10,Jordan Pickford,,NA
+Premier League,M,ENG,2018,Huddersfield,team,16,38,9,10,19,28,58,-30,37,32.6,53.7,-21.1,-0.56,24040,Steve Mounié - 7,Jonas Lössl,,NA
+Premier League,M,ENG,2018,Leicester City,team,9,38,12,11,15,56,60,-4,47,45.7,48.6,-2.8,-0.07,31583,Jamie Vardy - 20,Kasper Schmeichel,,NA
+Premier League,M,ENG,2018,Liverpool,team,4,38,21,12,5,84,38,46,75,70.4,33.3,37.1,0.98,53049,Mohamed Salah - 32,"Loris Karius, Simon Mignolet",→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2018,Manchester City,team,1,38,32,4,2,106,27,79,100,80.1,23,57.1,1.5,54070,Sergio Agüero - 21,Ederson,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2018,Manchester Utd,team,2,38,25,6,7,68,28,40,81,57,39.6,17.4,0.46,74976,Romelu Lukaku - 16,David de Gea,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2018,Newcastle Utd,team,10,38,12,8,18,39,47,-8,44,42.4,51.3,-8.9,-0.23,51992,Ayoze Pérez - 8,Rob Elliot,,NA
+Premier League,M,ENG,2018,Southampton,team,17,38,7,15,16,37,56,-19,36,40.1,45.7,-5.5,-0.15,30794,Charlie Austin - 7,Fraser Forster,,NA
+Premier League,M,ENG,2018,Stoke City,team,19,38,7,12,19,35,68,-33,33,37.1,59.7,-22.6,-0.6,29280,Xherdan Shaqiri - 8,Jack Butland,Relegated,NA
+Premier League,M,ENG,2018,Swansea City,team,18,38,8,9,21,28,56,-28,33,30.3,58.4,-28.2,-0.74,20623,Jordan Ayew - 7,Łukasz Fabiański,Relegated,NA
+Premier League,M,ENG,2018,Tottenham,team,3,38,23,8,7,74,36,38,77,67,33.2,33.8,0.89,67953,Harry Kane - 30,Hugo Lloris,→ UEFA Champions League via league finish,NA
+Premier League,M,ENG,2018,Watford,team,14,38,11,8,19,44,64,-20,41,44.8,55.5,-10.7,-0.28,20231,Abdoulaye Doucouré - 7,Heurelho Gomes,,NA
+Premier League,M,ENG,2018,West Brom,team,20,38,6,13,19,31,56,-25,31,34.4,47.7,-13.3,-0.35,24520,"Salomón Rondón, Jay Rodriguez - 7",Ben Foster,Relegated,NA
+Premier League,M,ENG,2018,West Ham,team,13,38,10,12,16,48,68,-20,42,37.3,57.8,-20.5,-0.54,56885,Marko Arnautović - 11,"Joe Hart, Adrián",,NA
+La Liga,M,ESP,2020,Alavés,team,16,38,10,9,19,34,59,-25,39,37,53.2,-16.2,-0.43,12177,"Lucas Pérez, Joselu - 11",Fernando Pacheco,,NA
+La Liga,M,ESP,2020,Athletic Club,team,11,38,13,12,13,41,38,3,51,38.5,46.2,-7.7,-0.2,28039,Raúl García - 15,Unai Simón,,NA
+La Liga,M,ESP,2020,Atlético Madrid,team,3,38,18,16,4,51,27,24,70,52.6,30.8,21.8,0.57,42236,Álvaro Morata - 12,Jan Oblak,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2020,Barcelona,team,2,38,25,7,6,86,38,48,82,66.4,36,30.4,0.8,54223,Lionel Messi - 25,Marc-André ter Stegen,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2020,Betis,team,15,38,10,11,17,48,60,-12,41,47.3,49.5,-2.2,-0.06,35969,Loren Morón - 10,Joel Robles,,NA
+La Liga,M,ESP,2020,Celta Vigo,team,17,38,7,16,15,37,49,-12,37,37.8,42.1,-4.2,-0.11,11995,Iago Aspas - 14,Rubén Blanco,,NA
+La Liga,M,ESP,2020,Eibar,team,14,38,11,9,18,39,56,-17,42,41.3,51,-9.7,-0.25,4151,Fabián Orellana - 8,Marko Dmitrović,,NA
+La Liga,M,ESP,2020,Espanyol,team,20,38,5,10,23,27,58,-31,25,33,44.6,-11.5,-0.3,16260,"Raúl de Tomás, Wu Lei... - 4",Diego López,Relegated,NA
+La Liga,M,ESP,2020,Getafe,team,8,38,14,12,12,43,37,6,54,37.9,39,-1.1,-0.03,8000,Jaime Mata - 11,David Soria,,NA
+La Liga,M,ESP,2020,Granada,team,7,38,16,8,14,52,45,7,56,41,41.1,-0.1,0,11174,Carlos Fernández - 10,Rui Silva,→ UEFA Europa League via league finish,NA
+La Liga,M,ESP,2020,Leganés,team,18,38,8,12,18,30,51,-21,36,37.3,39,-1.6,-0.04,7539,Óscar Rodríguez Arnaiz - 9,Iván Cuéllar,Relegated,NA
+La Liga,M,ESP,2020,Levante,team,12,38,14,7,17,47,53,-6,49,41.9,60.7,-18.8,-0.5,13196,Roger Martí - 11,Aitor Fernández,,NA
+La Liga,M,ESP,2020,Mallorca,team,19,38,9,6,23,40,65,-25,33,39.2,60.6,-21.4,-0.56,10877,Ante Budimir - 13,Manolo Reina,Relegated,NA
+La Liga,M,ESP,2020,Osasuna,team,10,38,13,13,12,46,54,-8,52,44.5,46.2,-1.7,-0.04,11453,Ezequiel Ávila - 9,Sergio Herrera,,NA
+La Liga,M,ESP,2020,Real Madrid,team,1,38,26,9,3,70,25,45,87,63.5,28.4,35.1,0.92,45833,Karim Benzema - 21,Thibaut Courtois,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2020,Real Sociedad,team,6,38,16,8,14,56,48,8,56,45.2,39.2,6,0.16,21204,Willian José - 11,Álex Remiro,→ UEFA Europa League via league finish,NA
+La Liga,M,ESP,2020,Sevilla,team,4,38,19,13,6,54,34,20,70,47.1,33.7,13.4,0.35,25016,Lucas Ocampos - 14,Tomáš Vaclík,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2020,Valencia,team,9,38,14,11,13,46,53,-7,53,40.3,52.3,-12,-0.32,29658,Maxi Gómez - 9,Jasper Cillessen,,NA
+La Liga,M,ESP,2020,Valladolid,team,13,38,9,15,14,32,43,-11,42,35.5,46.3,-10.8,-0.28,13580,Sergi Guardiola - 8,Jordi Masip,,NA
+La Liga,M,ESP,2020,Villarreal,team,5,38,18,6,14,63,49,14,60,57,44.6,12.4,0.33,11321,Gerard Moreno - 18,Sergio Asenjo,→ UEFA Europa League via league finish 1,NA
+La Liga,M,ESP,2019,Alavés,team,11,38,13,11,14,39,50,-11,50,37.3,50.8,-13.5,-0.36,17295,Jonathan Calleri - 9,Fernando Pacheco,,NA
+La Liga,M,ESP,2019,Athletic Club,team,8,38,13,14,11,41,45,-4,53,40.2,43.8,-3.6,-0.1,40664,Iñaki Williams - 12,Iago Herrerín,,NA
+La Liga,M,ESP,2019,Atlético Madrid,team,2,38,22,10,6,55,29,26,76,45.9,38.7,7.1,0.19,56216,Antoine Griezmann - 15,Jan Oblak,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2019,Barcelona,team,1,38,26,9,3,90,36,54,87,73.5,40.6,32.9,0.87,76104,Lionel Messi - 36,Marc-André ter Stegen,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2019,Betis,team,10,38,14,8,16,44,52,-8,50,48.8,47.1,1.8,0.05,44525,Giovani Lo Celso - 9,Pau López,,NA
+La Liga,M,ESP,2019,Celta Vigo,team,17,38,10,11,17,53,62,-9,41,44.9,59.8,-14.9,-0.39,17603,Iago Aspas - 20,Rubén Blanco,,NA
+La Liga,M,ESP,2019,Eibar,team,12,38,11,14,13,46,50,-4,47,50.8,44.9,5.9,0.16,4896,Charles - 14,Marko Dmitrović,,NA
+La Liga,M,ESP,2019,Espanyol,team,7,38,14,11,13,48,50,-2,53,48.8,50.8,-2,-0.05,19388,Borja Iglesias - 17,Diego López,→ UEFA Europa League via league finish,NA
+La Liga,M,ESP,2019,Getafe,team,5,38,15,14,9,48,35,13,59,44.7,40.7,4,0.11,11000,"Jaime Mata, Jorge Molina - 14",David Soria,→ UEFA Europa League via league finish,NA
+La Liga,M,ESP,2019,Girona,team,18,38,9,10,19,37,53,-16,37,38.5,50.5,-12,-0.32,10948,Cristhian Stuani - 19,Yassine Bounou,Relegated,NA
+La Liga,M,ESP,2019,Huesca,team,19,38,7,12,19,43,65,-22,33,45.9,57,-11.1,-0.29,6605,Ezequiel Ávila - 10,Roberto Santamaría,Relegated,NA
+La Liga,M,ESP,2019,Leganés,team,13,38,11,12,15,37,43,-6,45,37.4,40,-2.6,-0.07,10416,Youssef En-Nesyri - 9,Iván Cuéllar,,NA
+La Liga,M,ESP,2019,Levante,team,15,38,11,11,16,59,66,-7,44,49.9,67.9,-18,-0.47,20216,Roger Martí - 13,Oier Olazábal,,NA
+La Liga,M,ESP,2019,Rayo Vallecano,team,20,38,8,8,22,41,70,-29,32,40.9,54.4,-13.5,-0.36,11928,Raúl de Tomás - 14,Stole Dimitrievski,Relegated,NA
+La Liga,M,ESP,2019,Real Madrid,team,3,38,21,5,12,63,46,17,68,61.4,45.6,15.7,0.41,61040,Karim Benzema - 21,Thibaut Courtois,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2019,Real Sociedad,team,9,38,13,11,14,45,46,-1,50,46.5,43.8,2.7,0.07,22310,Mikel Oyarzabal - 13,Gerónimo Rulli,,NA
+La Liga,M,ESP,2019,Sevilla,team,6,38,17,8,13,62,47,15,59,63.5,44.1,19.4,0.51,35993,Wissam Ben Yedder - 18,Tomáš Vaclík,→ UEFA Europa League via league finish 1,NA
+La Liga,M,ESP,2019,Valencia,team,4,38,15,16,7,51,35,16,61,57.2,40.5,16.7,0.44,39504,Daniel Parejo - 9,Neto,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2019,Valladolid,team,16,38,10,11,17,32,51,-19,41,40.5,52.9,-12.5,-0.33,18992,Enes Ünal - 6,Jordi Masip,,NA
+La Liga,M,ESP,2019,Villarreal,team,14,38,10,14,14,49,52,-3,44,50.7,53.4,-2.6,-0.07,16732,Karl Toko Ekambi - 10,Sergio Asenjo,,NA
+La Liga,M,ESP,2018,Alavés,team,14,38,15,2,21,40,50,-10,47,39,53.2,-14.2,-0.37,16819,Munir El Haddadi - 10,Fernando Pacheco,,NA
+La Liga,M,ESP,2018,Athletic Club,team,16,38,10,13,15,41,49,-8,43,45.6,47.4,-1.8,-0.05,37325,Raúl García - 10,Kepa Arrizabalaga,,NA
+La Liga,M,ESP,2018,Atlético Madrid,team,2,38,23,10,5,58,22,36,79,47.8,37,10.8,0.28,55483,Antoine Griezmann - 19,Jan Oblak,→ UEFA Champions League via Europa League win,NA
+La Liga,M,ESP,2018,Barcelona,team,1,38,28,9,1,99,29,70,93,78.3,41.1,37.2,0.98,66603,Lionel Messi - 34,Marc-André ter Stegen,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2018,Betis,team,6,38,18,6,14,60,61,-1,60,41.1,50.6,-9.5,-0.25,46711,Sergio León - 11,Antonio Adán,→ UEFA Europa League via league finish 1,NA
+La Liga,M,ESP,2018,Celta Vigo,team,13,38,13,10,15,59,60,-1,49,52,51.6,0.4,0.01,15683,Iago Aspas - 22,Rubén Blanco,,NA
+La Liga,M,ESP,2018,Eibar,team,9,38,14,9,15,44,50,-6,51,39.9,44.4,-4.5,-0.12,5338,"Kike, Charles - 8",Marko Dmitrović,,NA
+La Liga,M,ESP,2018,Espanyol,team,11,38,12,13,13,36,42,-6,49,42.9,47.6,-4.8,-0.13,17768,Gerard Moreno - 16,Pau López,,NA
+La Liga,M,ESP,2018,Getafe,team,8,38,15,10,13,42,33,9,55,46.4,36.8,9.6,0.25,10318,Ángel Rodríguez - 13,Vicente Guaita,,NA
+La Liga,M,ESP,2018,Girona,team,10,38,14,9,15,50,59,-9,51,49,46.8,2.1,0.06,10330,Cristhian Stuani - 21,Yassine Bounou,,NA
+La Liga,M,ESP,2018,La Coruña,team,18,38,6,11,21,38,76,-38,29,49.2,57.8,-8.6,-0.23,20612,Adrián López - 9,Rubén,Relegated,NA
+La Liga,M,ESP,2018,Las Palmas,team,19,38,5,7,26,24,74,-50,22,38,65.2,-27.3,-0.72,16156,Jonathan Calleri - 9,Leandro Chichizola,Relegated,NA
+La Liga,M,ESP,2018,Leganés,team,17,38,12,7,19,34,51,-17,43,40,46.7,-6.8,-0.18,9539,Gabriel - 5,Iván Cuéllar,,NA
+La Liga,M,ESP,2018,Levante,team,15,38,11,13,14,44,58,-14,46,42.4,60.6,-18.2,-0.48,17927,José Luis Morales - 10,Oier Olazábal,,NA
+La Liga,M,ESP,2018,Málaga,team,20,38,5,5,28,24,61,-37,20,33.4,52.7,-19.3,-0.51,20420,Diego Rolán - 5,Roberto,Relegated,NA
+La Liga,M,ESP,2018,Real Madrid,team,3,38,22,10,6,94,44,50,76,83.3,45.4,37.9,1,66161,Cristiano Ronaldo - 26,Keylor Navas,→ UEFA Champions League via Champions League win,NA
+La Liga,M,ESP,2018,Real Sociedad,team,12,38,14,7,17,66,59,7,49,55,47.2,7.8,0.21,19736,Willian José - 15,Gerónimo Rulli,,NA
+La Liga,M,ESP,2018,Sevilla,team,7,38,17,7,14,49,58,-9,58,56.5,55.3,1.3,0.03,33045,Wissam Ben Yedder - 9,Sergio Rico,→ UEFA Europa League via league finish,NA
+La Liga,M,ESP,2018,Valencia,team,4,38,22,7,9,65,38,27,73,56,44.8,11.2,0.29,38657,Rodrigo - 16,Neto,→ UEFA Champions League via league finish,NA
+La Liga,M,ESP,2018,Villarreal,team,5,38,18,7,13,57,50,7,61,52.2,55.4,-3.2,-0.09,16731,Carlos Bacca - 15,Sergio Asenjo,→ UEFA Europa League via league finish,NA
+Ligue 1,M,FRA,2020,Amiens,team,19,28,4,11,13,31,50,-19,23,26.8,35.5,-8.7,-0.31,11616,Sehrou Guirassy - 9,Régis Gurtner,Relegated,0.82
+Ligue 1,M,FRA,2020,Angers,team,11,28,11,6,11,28,33,-5,39,27,28.7,-1.7,-0.06,9825,Rachid Alioui - 6,Ludovic Butelle,,1.39
+Ligue 1,M,FRA,2020,Bordeaux,team,12,28,9,10,9,40,34,6,37,29.7,33.2,-3.5,-0.12,23430,Jimmy Briand - 7,Benoît Costil,,1.32
+Ligue 1,M,FRA,2020,Brest,team,14,28,8,10,10,34,37,-3,34,30.2,40.5,-10.3,-0.37,13713,Irvin Cardona - 6,Gautier Larsonneur,,1.21
+Ligue 1,M,FRA,2020,Dijon,team,16,28,7,9,12,27,37,-10,30,28.8,43.1,-14.3,-0.51,12707,Mama Samba Baldé - 6,Alfred Gomis,,1.07
+Ligue 1,M,FRA,2020,Lille,team,4,28,15,4,9,35,27,8,49,39.7,29.6,10.1,0.36,36404,Victor Osimhen - 13,Mike Maignan,→ UEFA Europa League via league finish,1.75
+Ligue 1,M,FRA,2020,Lyon,team,7,28,11,7,10,42,27,15,40,37.2,26,11.2,0.4,47299,Moussa Dembélé - 16,Anthony Lopes,,1.43
+Ligue 1,M,FRA,2020,Marseille,team,2,28,16,8,4,41,29,12,56,34.2,30.5,3.6,0.13,52805,Darío Benedetto - 11,Steve Mandanda,→ UEFA Champions League via league finish,2
+Ligue 1,M,FRA,2020,Metz,team,15,28,8,10,10,27,35,-8,34,27.3,34.3,-6.9,-0.25,16583,Habib Diallo - 12,Alexandre Oukidja,,1.21
+Ligue 1,M,FRA,2020,Monaco,team,9,28,11,7,10,44,44,0,40,48,39.9,8.2,0.29,6451,Wissam Ben Yedder - 18,Benjamin Lecomte,,1.43
+Ligue 1,M,FRA,2020,Montpellier,team,8,28,11,7,10,35,34,1,40,32,34.1,-2.1,-0.07,14147,Andy Delort - 9,Gerónimo Rulli,,1.43
+Ligue 1,M,FRA,2020,Nantes,team,13,28,11,4,13,28,31,-3,37,27.8,33.5,-5.7,-0.2,24635,"Ludovic Blas, Moses Simon - 5",Alban Lafont,,1.32
+Ligue 1,M,FRA,2020,Nice,team,5,28,11,8,9,41,38,3,41,35.2,41.7,-6.6,-0.23,19225,Kasper Dolberg - 11,Walter Benítez,→ UEFA Europa League via league finish,1.46
+Ligue 1,M,FRA,2020,Nîmes,team,18,28,7,6,15,29,44,-15,27,29.7,43.8,-14.2,-0.51,12555,Romain Philippoteaux - 5,Paul Bernardoni,,0.96
+Ligue 1,M,FRA,2020,Paris S-G,team,1,27,22,2,3,75,24,51,68,70.9,22.7,48.2,1.78,47517,Kylian Mbappé - 18,Keylor Navas,→ UEFA Champions League via league finish,2.52
+Ligue 1,M,FRA,2020,Reims,team,6,28,10,11,7,26,21,5,41,28.3,26.4,1.9,0.07,12932,Boulaye Dia - 7,Predrag Rajković,→ UEFA Europa League via league finish,1.46
+Ligue 1,M,FRA,2020,Rennes,team,3,28,15,5,8,38,24,14,50,36.5,29.3,7.1,0.26,25893,M'Baye Niang - 10,Edouard Mendy,→ UEFA Champions League via league finish,1.79
+Ligue 1,M,FRA,2020,Saint-Étienne,team,17,28,8,6,14,29,45,-16,30,28.8,35.3,-6.6,-0.23,23205,Denis Bouanga - 10,Stéphane Ruffier,,1.07
+Ligue 1,M,FRA,2020,Strasbourg,team,10,27,11,5,11,32,32,0,38,35,30.8,4.2,0.15,24985,"Adrien Thomasson, Ludovic Ajorque - 8",Matz Sels,,1.41
+Ligue 1,M,FRA,2020,Toulouse,team,20,28,3,4,21,22,58,-36,13,30.1,44.1,-14.1,-0.5,14200,Efthimis Koulouris - 4,Baptiste Reynet,Relegated,0.46
+Ligue 1,M,FRA,2019,Amiens,team,15,38,9,11,18,31,52,-21,38,34.6,46.2,-11.6,-0.31,11043,Moussa Konaté - 7,Régis Gurtner,,NA
+Ligue 1,M,FRA,2019,Angers,team,13,38,10,16,12,44,49,-5,46,47.7,46.9,0.8,0.02,11189,Stéphane Bahoken - 11,Ludovic Butelle,,NA
+Ligue 1,M,FRA,2019,Bordeaux,team,14,38,10,11,17,34,42,-8,41,40.2,53.1,-12.9,-0.34,20838,François Kamano - 10,Benoît Costil,,NA
+Ligue 1,M,FRA,2019,Caen,team,19,38,7,12,19,29,54,-25,33,31.1,57.5,-26.4,-0.69,16654,"Casimir Ninga, Enzo Crivelli - 6",Brice Samba,Relegated,NA
+Ligue 1,M,FRA,2019,Dijon,team,18,38,9,7,22,31,60,-29,34,39.6,60.9,-21.3,-0.56,13044,Júlio Tavares - 5,Rúnar Alex Rúnarsson,→ French 1/2 Relegation/Promotion Playoffs,NA
+Ligue 1,M,FRA,2019,Guingamp,team,20,38,5,12,21,28,68,-40,27,39.7,50.1,-10.4,-0.27,14731,Marcus Thuram - 9,Marc-Aurèle Caillard,Relegated,NA
+Ligue 1,M,FRA,2019,Lille,team,2,38,22,9,7,68,33,35,75,58.4,42.7,15.6,0.41,34079,Nicolas Pépé - 22,Mike Maignan,→ UEFA Champions League via league finish,NA
+Ligue 1,M,FRA,2019,Lyon,team,3,38,21,9,8,70,47,23,72,73.7,42.6,31.1,0.82,49079,Moussa Dembélé - 15,Anthony Lopes,→ UEFA Champions League via league finish,NA
+Ligue 1,M,FRA,2019,Marseille,team,5,38,18,7,13,60,52,8,61,52.4,46,6.5,0.17,50140,Florian Thauvin - 16,Steve Mandanda,,NA
+Ligue 1,M,FRA,2019,Monaco,team,17,38,8,12,18,38,57,-19,36,48.9,47.3,1.6,0.04,8447,Radamel Falcao - 15,Diego Benaglio,,NA
+Ligue 1,M,FRA,2019,Montpellier,team,6,38,15,14,9,53,42,11,59,45.3,43.5,1.8,0.05,13829,Andy Delort - 14,Benjamin Lecomte,,NA
+Ligue 1,M,FRA,2019,Nantes,team,12,38,13,9,16,48,48,0,48,47.8,47.8,0,0,25185,Emiliano Sala - 12,Ciprian Tătărușanu,,NA
+Ligue 1,M,FRA,2019,Nice,team,7,38,15,11,12,30,35,-5,56,44.3,49.2,-4.9,-0.13,19126,Youcef Attal - 6,Walter Benítez,,NA
+Ligue 1,M,FRA,2019,Nîmes,team,9,38,15,8,15,57,58,-1,53,47.9,55.6,-7.7,-0.2,13994,"Renaud Ripart, Denis Bouanga - 8",Paul Bernardoni,,NA
+Ligue 1,M,FRA,2019,Paris S-G,team,1,38,29,4,5,105,35,70,91,91.1,35.9,55.2,1.45,46911,Kylian Mbappé - 33,Alphonse Areola,→ UEFA Champions League via league finish,NA
+Ligue 1,M,FRA,2019,Reims,team,8,38,13,16,9,39,42,-3,55,40.8,45,-4.2,-0.11,14342,Remi Oudin - 10,Edouard Mendy,,NA
+Ligue 1,M,FRA,2019,Rennes,team,10,38,13,13,12,55,52,3,52,52.3,48.7,3.6,0.09,23675,M'Baye Niang - 11,Tomáš Koubek,→ UEFA Europa League via cup win 1,NA
+Ligue 1,M,FRA,2019,Saint-Étienne,team,4,38,19,9,10,59,41,18,66,56,50.6,5.4,0.14,28400,Wahbi Khazri - 13,Stéphane Ruffier,→ UEFA Europa League via league finish,NA
+Ligue 1,M,FRA,2019,Strasbourg,team,11,38,11,16,11,58,48,10,49,42.3,49.9,-7.6,-0.2,25216,"Ludovic Ajorque, Lebo Mothiba - 9",Matz Sels,→ UEFA Europa League via cup win 2,NA
+Ligue 1,M,FRA,2019,Toulouse,team,16,38,8,14,16,35,57,-22,38,43.7,58.3,-14.6,-0.38,16224,Max Gradel - 11,Baptiste Reynet,,NA
+Ligue 1,M,FRA,2018,Amiens,team,13,38,12,9,17,37,42,-5,45,35.2,55.5,-20.3,-0.53,9644,Moussa Konaté - 13,Régis Gurtner,,NA
+Ligue 1,M,FRA,2018,Angers,team,14,38,9,14,15,42,52,-10,41,45.6,44,1.6,0.04,11062,Karl Toko Ekambi - 17,Ludovic Butelle,,NA
+Ligue 1,M,FRA,2018,Bordeaux,team,6,38,16,7,15,53,48,5,55,52.6,40.7,11.9,0.31,26470,Malcom - 12,Benoît Costil,→ UEFA Europa League via league finish 2,NA
+Ligue 1,M,FRA,2018,Caen,team,16,38,10,8,20,27,52,-25,38,42.3,48.8,-6.6,-0.17,17188,Ivan Santini - 11,Rémy Vercoutre,,NA
+Ligue 1,M,FRA,2018,Dijon,team,11,38,13,9,16,55,73,-18,48,42.9,69.1,-26.3,-0.69,12228,Júlio Tavares - 12,Baptiste Reynet,,NA
+Ligue 1,M,FRA,2018,Guingamp,team,12,38,12,11,15,48,59,-11,47,45.4,53.8,-8.3,-0.22,14506,Jimmy Briand - 11,Karl-Johan Johnsson,,NA
+Ligue 1,M,FRA,2018,Lille,team,17,38,10,8,20,41,67,-26,38,37.7,56.8,-19.1,-0.5,31453,Nicolas Pépé - 13,Mike Maignan,,NA
+Ligue 1,M,FRA,2018,Lyon,team,3,38,23,9,6,87,43,44,78,66.9,39.7,27.2,0.72,46005,Memphis Depay - 19,Anthony Lopes,→ UEFA Champions League via league finish,NA
+Ligue 1,M,FRA,2018,Marseille,team,4,38,22,11,5,80,47,33,77,72.2,41.9,30.4,0.8,46040,Florian Thauvin - 22,Steve Mandanda,→ UEFA Europa League via league finish,NA
+Ligue 1,M,FRA,2018,Metz,team,20,38,6,8,24,34,76,-42,26,37.9,67,-29.1,-0.77,14839,Nolan Roux - 15,Eiji Kawashima,Relegated,NA
+Ligue 1,M,FRA,2018,Monaco,team,2,38,24,8,6,85,45,40,80,61.5,47,14.5,0.38,9243,Radamel Falcao - 18,Danijel Subašić,→ UEFA Champions League via league finish,NA
+Ligue 1,M,FRA,2018,Montpellier,team,10,38,11,18,9,36,33,3,51,42.4,41.7,0.7,0.02,13458,Giovanni Sio - 10,Benjamin Lecomte,,NA
+Ligue 1,M,FRA,2018,Nantes,team,9,38,14,10,14,36,41,-5,52,43.3,41.3,2,0.05,24559,Emiliano Sala - 12,Ciprian Tătărușanu,,NA
+Ligue 1,M,FRA,2018,Nice,team,8,38,15,9,14,53,52,1,54,51.7,48.1,3.6,0.09,22876,Mario Balotelli - 18,Walter Benítez,,NA
+Ligue 1,M,FRA,2018,Paris S-G,team,1,38,29,6,3,108,29,79,93,89.1,32.3,56.9,1.5,46929,Edinson Cavani - 28,Alphonse Areola,→ UEFA Champions League via league finish,NA
+Ligue 1,M,FRA,2018,Rennes,team,5,38,16,10,12,50,44,6,58,49.4,53.5,-4.1,-0.11,23111,Benjamin Bourigeaud - 10,Tomáš Koubek,→ UEFA Europa League via league finish 1,NA
+Ligue 1,M,FRA,2018,Saint-Étienne,team,7,38,15,10,13,47,50,-3,55,52.2,51.6,0.6,0.02,28142,"Jonathan Bamba, Rémy Cabella... - 7",Stéphane Ruffier,,NA
+Ligue 1,M,FRA,2018,Strasbourg,team,15,38,9,11,18,44,67,-23,38,45.3,56.1,-10.7,-0.28,24083,Stéphane Bahoken - 7,Bingourou Kamara,,NA
+Ligue 1,M,FRA,2018,Toulouse,team,18,38,9,10,19,38,54,-16,37,46,53.1,-7.2,-0.19,16924,Max Gradel - 8,Alban Lafont,→ French 1/2 Relegation/Promotion Playoffs,NA
+Ligue 1,M,FRA,2018,Troyes,team,19,38,9,6,23,32,59,-27,33,36.6,54.2,-17.6,-0.46,12196,Adama Niane - 8,Mamadou Samassa,Relegated,NA
+Fußball-Bundesliga,M,GER,2020,Augsburg,team,15,34,9,9,16,45,63,-18,36,42.1,54.9,-12.9,-0.38,20265,Florian Niederlechner - 13,Tomáš Koubek,,NA
+Fußball-Bundesliga,M,GER,2020,Bayern Munich,team,1,34,26,4,4,100,32,68,82,82.3,34.3,48,1.41,57353,Robert Lewandowski - 34,Manuel Neuer,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2020,Dortmund,team,2,34,21,6,7,84,41,43,69,59.2,39.4,19.8,0.58,57297,Jadon Sancho - 17,Roman Bürki,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2020,Düsseldorf,team,17,34,6,12,16,36,67,-31,30,33,56.2,-23.2,-0.68,30581,Rouwen Hennings - 15,"Zack Steffen, Florian Kastenmeier",Relegated,NA
+Fußball-Bundesliga,M,GER,2020,Eint Frankfurt,team,9,34,13,6,15,59,60,-1,45,52.5,49.1,3.4,0.1,35435,André Silva - 12,Kevin Trapp,,NA
+Fußball-Bundesliga,M,GER,2020,Freiburg,team,8,34,13,9,12,48,47,1,48,41.7,60.9,-19.2,-0.56,16888,Nils Petersen - 11,Alexander Schwolow,,NA
+Fußball-Bundesliga,M,GER,2020,Hertha BSC,team,10,34,11,8,15,48,59,-11,41,40.6,51.4,-10.8,-0.32,37689,"Dodi Lukebakio, Vedad Ibišević - 7",Rune Jarstein,,NA
+Fußball-Bundesliga,M,GER,2020,Hoffenheim,team,6,34,15,7,12,53,53,0,52,49.9,51.8,-2,-0.06,20449,Andrej Kramarić - 12,Oliver Baumann,→ UEFA Europa League via league finish,NA
+Fußball-Bundesliga,M,GER,2020,Köln,team,14,34,10,6,18,51,69,-18,36,47.2,51.5,-4.3,-0.13,35094,Jhon Córdoba - 13,Timo Horn,,NA
+Fußball-Bundesliga,M,GER,2020,Leverkusen,team,5,34,19,6,9,61,44,17,63,56.6,45.1,11.5,0.34,21236,Kai Havertz - 12,Lukáš Hrádecký,→ UEFA Europa League via league finish 1,NA
+Fußball-Bundesliga,M,GER,2020,M'Gladbach,team,4,34,20,5,9,66,40,26,65,66.4,42.4,23.9,0.7,36078,"Marcus Thuram, Alassane Pléa - 10",Yann Sommer,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2020,Mainz 05,team,13,34,11,4,19,44,65,-21,37,44.3,57.3,-13,-0.38,20694,Robin Quaison - 13,Robin Zentner,,NA
+Fußball-Bundesliga,M,GER,2020,Paderborn 07,team,18,34,4,8,22,37,74,-37,20,38.6,67.4,-28.7,-0.85,11038,"Streli Mamba, Sven Michel... - 5",Leopold Zingerle,Relegated,NA
+Fußball-Bundesliga,M,GER,2020,RB Leipzig,team,3,34,18,12,4,81,37,44,66,70.9,36.4,34.5,1.01,28819,Timo Werner - 28,Péter Gulácsi,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2020,Schalke 04,team,12,34,9,12,13,38,58,-20,39,35.4,49.7,-14.4,-0.42,46681,Suat Serdar - 7,Alexander Nübel,,NA
+Fußball-Bundesliga,M,GER,2020,Union Berlin,team,11,34,12,5,17,41,58,-17,41,38.3,51.5,-13.2,-0.39,15467,Sebastian Andersson - 12,Rafał Gikiewicz,,NA
+Fußball-Bundesliga,M,GER,2020,Werder Bremen,team,16,34,8,7,19,42,69,-27,31,41.4,48.1,-6.7,-0.2,26413,"Yuya Osako, Milot Rashica - 8",Jiří Pavlenka,→ German 1/2 Relegation/Promotion Playoffs,NA
+Fußball-Bundesliga,M,GER,2020,Wolfsburg,team,7,34,13,10,11,48,46,2,49,47.3,40.1,7.3,0.21,18621,Wout Weghorst - 16,Koen Casteels,→ UEFA Europa League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,Augsburg,team,15,34,8,8,18,51,71,-20,32,43.2,57.4,-14.2,-0.42,28623,Alfreð Finnbogason - 10,Gregor Kobel,,NA
+Fußball-Bundesliga,M,GER,2019,Bayern Munich,team,1,34,24,6,4,88,32,56,78,81,25.9,55.2,1.62,75000,Robert Lewandowski - 22,Manuel Neuer,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,Dortmund,team,2,34,23,7,4,81,44,37,76,58.3,39.6,18.7,0.55,80841,Paco Alcácer - 18,Roman Bürki,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,Düsseldorf,team,10,34,13,5,16,49,65,-16,44,46.7,60.2,-13.5,-0.4,43869,"Dodi Lukebakio, Benito Raman - 10",Michael Rensing,,NA
+Fußball-Bundesliga,M,GER,2019,Eint Frankfurt,team,7,34,15,9,10,60,48,12,54,55.4,50.5,4.9,0.15,49794,Luka Jović - 17,Kevin Trapp,→ UEFA Europa League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,Freiburg,team,13,34,8,12,14,46,61,-15,36,42.2,55.5,-13.3,-0.39,23894,Nils Petersen - 10,Alexander Schwolow,,NA
+Fußball-Bundesliga,M,GER,2019,Hannover 96,team,17,34,5,6,23,31,71,-40,21,33.8,66.2,-32.4,-0.95,38365,Hendrik Weydandt - 6,Michael Esser,Relegated,NA
+Fußball-Bundesliga,M,GER,2019,Hertha BSC,team,11,34,11,10,13,49,57,-8,43,48,59.5,-11.5,-0.34,49258,Ondrej Duda - 11,Rune Jarstein,,NA
+Fußball-Bundesliga,M,GER,2019,Hoffenheim,team,9,34,13,12,9,70,52,18,51,73.2,51.9,21.3,0.63,28456,Andrej Kramarić - 17,Oliver Baumann,,NA
+Fußball-Bundesliga,M,GER,2019,Leverkusen,team,4,34,18,4,12,69,52,17,58,62.1,43.6,18.5,0.54,27990,Kai Havertz - 17,Lukáš Hrádecký,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,M'Gladbach,team,5,34,16,7,11,55,42,13,55,51.1,49.5,1.6,0.05,49668,Alassane Pléa - 12,Yann Sommer,→ UEFA Europa League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,Mainz 05,team,12,34,12,7,15,46,57,-11,43,48.4,57.2,-8.9,-0.26,26246,Jean-Philippe Mateta - 14,Florian Müller,,NA
+Fußball-Bundesliga,M,GER,2019,Nürnberg,team,18,34,3,10,21,26,68,-42,19,33.1,55.7,-22.6,-0.67,40372,"Mikael Ishak, Hanno Behrens - 4",Christian Mathenia,Relegated,NA
+Fußball-Bundesliga,M,GER,2019,RB Leipzig,team,3,34,19,9,6,63,29,34,66,61,35,26,0.76,38380,Timo Werner - 16,Péter Gulácsi,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2019,Schalke 04,team,14,34,8,9,17,37,55,-18,33,43.1,49.8,-6.7,-0.2,60941,Daniel Caligiuri - 7,Alexander Nübel,,NA
+Fußball-Bundesliga,M,GER,2019,Stuttgart,team,16,34,7,7,20,32,70,-38,28,38.9,57.5,-18.6,-0.55,54577,Mario Gómez - 7,Ron-Robert Zieler,→ German 1/2 Relegation/Promotion Playoffs,NA
+Fußball-Bundesliga,M,GER,2019,Werder Bremen,team,8,34,14,11,9,58,49,9,53,49.7,54,-4.3,-0.13,41403,Max Kruse - 11,Jiří Pavlenka,,NA
+Fußball-Bundesliga,M,GER,2019,Wolfsburg,team,6,34,16,7,11,62,50,12,55,46.3,46.4,-0.1,0,24479,Wout Weghorst - 17,Koen Casteels,→ UEFA Europa League via league finish 1,NA
+Fußball-Bundesliga,M,GER,2018,Augsburg,team,12,34,10,11,13,43,46,-3,41,45,43,2,0.06,28238,Michael Gregoritsch - 13,Marwin Hitz,,NA
+Fußball-Bundesliga,M,GER,2018,Bayern Munich,team,1,34,27,3,4,92,28,64,84,77.8,33.7,44.1,1.3,75000,Robert Lewandowski - 29,Sven Ulreich,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2018,Dortmund,team,4,34,15,10,9,64,47,17,55,63.6,44.6,19,0.56,79496,Pierre-Emerick Aubameyang - 13,Roman Bürki,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2018,Eint Frankfurt,team,8,34,14,7,13,45,45,0,49,43.4,42.1,1.2,0.04,49159,Sébastien Haller - 9,Lukáš Hrádecký,,NA
+Fußball-Bundesliga,M,GER,2018,Freiburg,team,15,34,8,12,14,32,56,-24,36,41.2,50.6,-9.3,-0.27,23894,Nils Petersen - 15,Alexander Schwolow,,NA
+Fußball-Bundesliga,M,GER,2018,Hamburger SV,team,17,34,8,7,19,29,53,-24,31,37.1,52.7,-15.7,-0.46,50656,Lewis Holtby - 6,Christian Mathenia,Relegated,NA
+Fußball-Bundesliga,M,GER,2018,Hannover 96,team,13,34,10,9,15,44,54,-10,39,46.1,54.4,-8.3,-0.25,42706,Niclas Füllkrug - 14,Philipp Tschauner,,NA
+Fußball-Bundesliga,M,GER,2018,Hertha BSC,team,10,34,10,13,11,43,46,-3,43,39.9,46.5,-6.7,-0.2,45319,Salomon Kalou - 12,Rune Jarstein,,NA
+Fußball-Bundesliga,M,GER,2018,Hoffenheim,team,3,34,15,10,9,66,48,18,55,51.8,47.5,4.4,0.13,28716,Mark Uth - 14,Oliver Baumann,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2018,Köln,team,18,34,5,7,22,35,70,-35,22,42.2,67.9,-25.7,-0.75,48776,"Leonardo Bittencourt, Simon Terodde - 5",Timo Horn,Relegated,NA
+Fußball-Bundesliga,M,GER,2018,Leverkusen,team,5,34,15,10,9,58,44,14,55,59.1,37,22.2,0.65,28415,Kevin Volland - 14,Bernd Leno,→ UEFA Europa League via league finish,NA
+Fußball-Bundesliga,M,GER,2018,M'Gladbach,team,9,34,13,8,13,47,52,-5,47,51.4,51.7,-0.2,-0.01,50986,Thorgan Hazard - 10,Yann Sommer,,NA
+Fußball-Bundesliga,M,GER,2018,Mainz 05,team,14,34,9,9,16,38,52,-14,36,35.3,51.6,-16.3,-0.48,28766,Yoshinori Mutō - 8,Robin Zentner,,NA
+Fußball-Bundesliga,M,GER,2018,RB Leipzig,team,6,34,15,8,11,57,53,4,53,54.3,45.7,8.6,0.25,39397,Timo Werner - 13,Péter Gulácsi,→ UEFA Europa League via league finish,NA
+Fußball-Bundesliga,M,GER,2018,Schalke 04,team,2,34,18,9,7,53,37,16,63,47.8,42.3,5.5,0.16,61197,Guido Burgstaller - 11,Ralf Fährmann,→ UEFA Champions League via league finish,NA
+Fußball-Bundesliga,M,GER,2018,Stuttgart,team,7,34,15,6,13,36,36,0,51,39.6,45.7,-6,-0.18,56045,Mario Gómez - 8,Ron-Robert Zieler,,NA
+Fußball-Bundesliga,M,GER,2018,Werder Bremen,team,11,34,10,12,12,37,40,-3,42,40,48.5,-8.5,-0.25,38726,Max Kruse - 6,Jiří Pavlenka,,NA
+Fußball-Bundesliga,M,GER,2018,Wolfsburg,team,16,34,6,15,13,36,48,-12,33,39.2,49.5,-10.3,-0.3,25712,Daniel Didavi - 9,Koen Casteels,→ German 1/2 Relegation/Promotion Playoffs,NA
+Serie A,M,ITA,2020,Atalanta,team,3,38,23,9,6,98,48,50,78,81.9,41.4,40.4,1.06,11167,"Luis Muriel, Duván Zapata - 18",Pierluigi Gollini,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2020,Bologna,team,12,38,12,11,15,52,65,-13,47,53.1,54.6,-1.5,-0.04,15774,Musa Barrow - 9,Łukasz Skorupski,,NA
+Serie A,M,ITA,2020,Brescia,team,19,38,6,7,25,35,79,-44,25,42.4,77.7,-35.2,-0.93,10050,"Ernesto Torregrossa, Alfredo Donnarumma - 7",Jesse Joronen,Relegated,NA
+Serie A,M,ITA,2020,Cagliari,team,14,38,11,12,15,52,56,-4,45,41.4,57.2,-15.8,-0.42,10728,João Pedro - 18,Robin Olsen,,NA
+Serie A,M,ITA,2020,Fiorentina,team,10,38,12,13,13,51,48,3,49,54.6,48.9,5.8,0.15,22486,Federico Chiesa - 11,Bartłomiej Drągowski,,NA
+Serie A,M,ITA,2020,Genoa,team,17,38,10,9,19,47,73,-26,39,47.4,59.3,-11.9,-0.31,14016,Goran Pandev - 9,Mattia Perin,,NA
+Serie A,M,ITA,2020,Hellas Verona,team,9,38,12,13,13,47,51,-4,49,49.1,52.6,-3.5,-0.09,11248,Samuel Di Carmine - 8,Marco Silvestri,,NA
+Serie A,M,ITA,2020,Inter,team,2,38,24,10,4,81,36,45,82,72.1,40.7,31.4,0.83,41558,Romelu Lukaku - 23,Samir Handanović,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2020,Juventus,team,1,38,26,5,7,76,43,33,83,68.9,41.8,27.1,0.71,25102,Cristiano Ronaldo - 31,Wojciech Szczęsny,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2020,Lazio,team,4,38,24,6,8,79,42,37,78,68.4,49.6,18.9,0.5,26363,Ciro Immobile - 36,Thomas Strakosha,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2020,Lecce,team,18,38,9,8,21,52,85,-33,35,53.9,84.1,-30.1,-0.79,15939,Marco Mancosu - 14,Gabriel,Relegated,NA
+Serie A,M,ITA,2020,Milan,team,6,38,19,9,10,63,46,17,66,60.1,47.6,12.5,0.33,34078,Ante Rebić - 11,Gianluigi Donnarumma,→ UEFA Europa League via league finish,NA
+Serie A,M,ITA,2020,Napoli,team,7,38,18,8,12,61,50,11,62,62.5,39.3,23.2,0.61,21622,Arkadiusz Milik - 11,Alex Meret,→ UEFA Europa League via cup win 1,NA
+Serie A,M,ITA,2020,Parma,team,11,38,14,7,17,56,57,-1,49,46.7,62,-15.3,-0.4,10245,Andreas Cornelius - 12,Luigi Sepe,,NA
+Serie A,M,ITA,2020,Roma,team,5,38,21,7,10,77,51,26,70,72.7,48.4,24.4,0.64,26956,Edin Džeko - 16,Pau López,→ UEFA Europa League via league finish,NA
+Serie A,M,ITA,2020,Sampdoria,team,15,38,12,6,20,48,65,-17,42,51.2,53.3,-2.2,-0.06,13700,"Manolo Gabbiadini, Fabio Quagliarella - 11",Emil Audero,,NA
+Serie A,M,ITA,2020,Sassuolo,team,8,38,14,9,15,69,63,6,51,56,64.1,-8.1,-0.21,7704,Francesco Caputo - 21,Andrea Consigli,,NA
+Serie A,M,ITA,2020,SPAL,team,20,38,5,5,28,27,77,-50,20,39.1,67.4,-28.3,-0.74,8241,Andrea Petagna - 12,Etrit Berisha,Relegated,NA
+Serie A,M,ITA,2020,Torino,team,16,38,11,7,20,46,68,-22,40,42.4,62.7,-20.3,-0.53,13338,Andrea Belotti - 16,Salvatore Sirigu,,NA
+Serie A,M,ITA,2020,Udinese,team,13,38,12,9,17,37,51,-14,45,40.7,51.9,-11.2,-0.3,13841,Kevin Lasagna - 10,Juan Musso,,NA
+Serie A,M,ITA,2019,Atalanta,team,3,38,20,9,9,77,46,31,69,66.8,41.5,25.4,0.67,18301,Duván Zapata - 23,Pierluigi Gollini,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2019,Bologna,team,10,38,11,11,16,48,56,-8,44,47.3,46.5,0.8,0.02,21237,"Riccardo Orsolini, Federico Santander - 8",Łukasz Skorupski,,NA
+Serie A,M,ITA,2019,Cagliari,team,15,38,10,11,17,36,54,-18,41,39.2,58.8,-19.6,-0.52,15396,Leonardo Pavoletti - 16,Alessio Cragno,,NA
+Serie A,M,ITA,2019,Chievo,team,20,38,2,14,22,25,75,-50,17,35.9,59.4,-23.5,-0.62,12142,Mariusz Stępiński - 6,Stefano Sorrentino,"3-point deduction 3, Relegated",NA
+Serie A,M,ITA,2019,Empoli,team,18,38,10,8,20,51,70,-19,38,52.1,60.9,-8.8,-0.23,9620,Francesco Caputo - 16,Ivan Provedel,Relegated,NA
+Serie A,M,ITA,2019,Fiorentina,team,16,38,8,17,13,47,45,2,41,52.3,42.2,10.1,0.27,31178,Marco Benassi - 7,Alban Lafont,,NA
+Serie A,M,ITA,2019,Frosinone,team,19,38,5,10,23,29,69,-40,25,35.6,61,-25.4,-0.67,12656,Camillo Ciano - 7,Marco Sportiello,Relegated,NA
+Serie A,M,ITA,2019,Genoa,team,17,38,8,14,16,39,57,-18,38,43.7,54.2,-10.5,-0.28,20950,Krzysztof Piątek - 13,Ionuț Radu,,NA
+Serie A,M,ITA,2019,Inter,team,4,38,20,9,9,57,33,24,69,64.4,38.2,26.2,0.69,57405,Mauro Icardi - 11,Samir Handanović,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2019,Juventus,team,1,38,28,6,4,70,30,40,90,58.3,36.1,22.2,0.58,37799,Cristiano Ronaldo - 21,Wojciech Szczęsny,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2019,Lazio,team,8,38,17,8,13,56,46,10,59,56.4,42.7,13.7,0.36,33997,Ciro Immobile - 15,Thomas Strakosha,→ UEFA Europa League via cup win 2,NA
+Serie A,M,ITA,2019,Milan,team,5,38,19,11,8,55,36,19,68,48.2,40,8.1,0.21,54651,Krzysztof Piątek - 9,Gianluigi Donnarumma,Ineligible for continental competition 1,NA
+Serie A,M,ITA,2019,Napoli,team,2,38,24,7,7,74,36,38,79,68.1,34.2,33.9,0.89,29003,Arkadiusz Milik - 17,David Ospina,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2019,Parma,team,14,38,10,11,17,41,61,-20,41,38.5,65.4,-26.9,-0.71,16522,Gervinho - 11,Luigi Sepe,,NA
+Serie A,M,ITA,2019,Roma,team,6,38,18,12,8,66,48,18,66,64.1,54.4,9.7,0.26,38622,Stephan El Shaarawy - 11,Robin Olsen,→ UEFA Europa League via league finish,NA
+Serie A,M,ITA,2019,Sampdoria,team,9,38,15,8,15,60,51,9,53,49.8,52.6,-2.9,-0.08,20263,Fabio Quagliarella - 26,Emil Audero,,NA
+Serie A,M,ITA,2019,Sassuolo,team,11,38,9,16,13,53,60,-7,43,46.3,57.3,-11,-0.29,12369,Domenico Berardi - 8,Andrea Consigli,,NA
+Serie A,M,ITA,2019,SPAL,team,13,38,11,9,18,44,56,-12,42,41.4,48.5,-7.1,-0.19,14745,Andrea Petagna - 16,Alfred Gomis,,NA
+Serie A,M,ITA,2019,Torino,team,7,38,16,15,7,52,37,15,63,49.4,47.9,1.5,0.04,21323,Andrea Belotti - 15,Salvatore Sirigu,→ UEFA Europa League via league finish,NA
+Serie A,M,ITA,2019,Udinese,team,12,38,11,10,17,39,53,-14,43,41.5,57.6,-16.2,-0.43,20414,Rodrigo De Paul - 9,Juan Musso,,NA
+Serie A,M,ITA,2018,Atalanta,team,7,38,16,12,10,57,39,18,60,67.3,37.1,30.2,0.79,17921,Josip Iličić - 11,Etrit Berisha,→ UEFA Europa League via league finish,NA
+Serie A,M,ITA,2018,Benevento,team,20,38,6,3,29,33,84,-51,21,39,74.7,-35.7,-0.94,12132,Cheick Diabaté - 8,Christian Puggioni,Relegated,NA
+Serie A,M,ITA,2018,Bologna,team,15,38,11,6,21,40,52,-12,39,36.9,53.7,-16.8,-0.44,20903,Simone Verdi - 10,Antonio Mirante,,NA
+Serie A,M,ITA,2018,Cagliari,team,16,38,11,6,21,33,61,-28,39,40,58.8,-18.7,-0.49,14685,Leonardo Pavoletti - 11,Alessio Cragno,,NA
+Serie A,M,ITA,2018,Chievo,team,13,38,10,10,18,36,59,-23,40,32.2,54.3,-22.1,-0.58,12540,Roberto Inglese - 12,Stefano Sorrentino,,NA
+Serie A,M,ITA,2018,Crotone,team,18,38,9,8,21,40,66,-26,35,36.1,58.9,-22.8,-0.6,10581,"Simeon Nwankwo, Marcello Trotta - 7",Alex Cordaz,Relegated,NA
+Serie A,M,ITA,2018,Fiorentina,team,8,38,16,9,13,54,46,8,57,57.3,42.5,14.9,0.39,26092,Giovanni Simeone - 14,Marco Sportiello,,NA
+Serie A,M,ITA,2018,Genoa,team,12,38,11,8,19,33,43,-10,41,43.3,45.5,-2.2,-0.06,20941,Gianluca Lapadula - 6,Mattia Perin,,NA
+Serie A,M,ITA,2018,Hellas Verona,team,19,38,7,4,27,30,78,-48,25,34.3,75.9,-41.5,-1.09,17333,"Moise Kean, Giampaolo Pazzini - 4",Nícolas Andrade,Relegated,NA
+Serie A,M,ITA,2018,Inter,team,4,38,20,12,6,66,30,36,72,60.9,35.3,25.6,0.67,57529,Mauro Icardi - 29,Samir Handanović,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2018,Juventus,team,1,38,30,5,3,86,24,62,95,59.7,28.8,30.9,0.81,39316,Paulo Dybala - 22,Gianluigi Buffon,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2018,Lazio,team,5,38,21,9,8,89,49,40,72,63.3,44.3,18.9,0.5,30990,Ciro Immobile - 29,Thomas Strakosha,→ UEFA Europa League via league finish,NA
+Serie A,M,ITA,2018,Milan,team,6,38,18,10,10,56,42,14,64,54.7,39.1,15.6,0.41,52690,Patrick Cutrone - 10,Gianluigi Donnarumma,→ UEFA Europa League via league finish 1,NA
+Serie A,M,ITA,2018,Napoli,team,2,38,28,7,3,77,29,48,91,66.6,25.5,41.1,1.08,43050,Dries Mertens - 18,Pepe Reina,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2018,Roma,team,3,38,23,8,7,61,28,33,77,69.6,39.9,29.7,0.78,37450,Edin Džeko - 16,Alisson,→ UEFA Champions League via league finish,NA
+Serie A,M,ITA,2018,Sampdoria,team,10,38,16,6,16,56,60,-4,54,51.2,63.3,-12.1,-0.32,20156,Fabio Quagliarella - 19,Emiliano Viviano,,NA
+Serie A,M,ITA,2018,Sassuolo,team,11,38,11,10,17,29,59,-30,43,49.4,49.6,-0.2,0,11237,Matteo Politano - 10,Andrea Consigli,,NA
+Serie A,M,ITA,2018,SPAL,team,17,38,8,14,16,39,59,-20,38,37.7,59.7,-22,-0.58,12067,Mirco Antenucci - 11,Alfred Gomis,,NA
+Serie A,M,ITA,2018,Torino,team,9,38,13,15,10,54,46,8,54,46.7,52.3,-5.6,-0.15,18596,Iago Falque - 12,Salvatore Sirigu,,NA
+Serie A,M,ITA,2018,Udinese,team,14,38,12,4,22,48,63,-15,40,43.7,50.9,-7.2,-0.19,17906,Kevin Lasagna - 12,Albano Bizzarri,,NA
